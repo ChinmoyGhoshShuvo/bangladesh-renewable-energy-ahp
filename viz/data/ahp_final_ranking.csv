@@ -1,0 +1,6 @@
+# Source: Thesis_Final.docx, Table 4-14 "Final Calculation of Ranking" (weighted local priority x criterion weight)
+criterion,SE,TE,WE,BE
+Technological Maturity (TM),0.132467068,0.00874271,0.019839835,0.065422544
+Reliability (RL),0.317867745,0.066156578,0.099005392,0.103255749
+Cost Effectiveness (CE),0.025489656,0.028359245,0.002185249,0.034228679
+Environmental Sustainability (ES),0.00475202,0.021810864,0.014447798,0.007907964

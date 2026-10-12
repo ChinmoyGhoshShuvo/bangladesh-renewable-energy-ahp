@@ -1,0 +1,6 @@
+# Source: Thesis_Final.docx, Table 4-4 "Detailed Calculations for CI, CR and Lambda Values"; lambda_max 4.1683, CI 0.0561, RI 0.90, CR 0.0624 (thesis text)
+criterion,weight,lambda
+Technological Maturity (TM),0.291313,4.274535
+Reliability (RL),0.573953,4.320865
+Cost Effectiveness (CE),0.090263,4.031881
+Environmental Sustainability (ES),0.044471,4.046104
